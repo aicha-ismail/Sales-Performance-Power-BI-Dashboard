@@ -19,6 +19,7 @@ This dashboard enables stakeholders to identify growth opportunities and make in
 - 🧑‍🤝‍🧑 Which **customers** buy the most products?
 - 🛒 Which **products** sell the most?
 - 🔁 How do filters (Region, State, Customer, Product) change performance?
+- 🖼️ Dashboard Interaction <a href="https://github.com/aicha-ismail/Sales-Performance-Power-BI-Dashboard/blob/main/Sales%20Performance%20Dashboard.png">View Dashboard</a>
 
 ---
 
@@ -39,7 +40,7 @@ This dashboard enables stakeholders to identify growth opportunities and make in
 ---
 
 ## 🖼️ **Dashboard**
-<a href="https://github.com/aicha-ismail/Sales-Performance-Power-BI-Dashboard/blob/main/Sales%20Performance%20Dashboard.png">view Dashboard</a>
+![Sales Performance Dashboard](https://github.com/aicha-ismail/Sales-Performance-Power-BI-Dashboard/blob/main/Sales%20Performance%20Dashboard.png)
 
 ---
 
