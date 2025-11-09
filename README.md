@@ -39,7 +39,7 @@ This dashboard enables stakeholders to identify growth opportunities and make in
 ---
 
 ## 🖼️ **Dashboard**
-<a href="https://github.com/aicha-ismail/Sales-Performance-Power-BI-Dashboard/blob/main/Sales%20Performance%20Dashboard.png">viwe Dashboard</a>
+<a href="https://github.com/aicha-ismail/Sales-Performance-Power-BI-Dashboard/blob/main/Sales%20Performance%20Dashboard.png">view Dashboard</a>
 
 ---
 
